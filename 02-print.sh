@@ -3,4 +3,4 @@ echo -e "hello world!\n"
 
 echo -e "hello\nworld"
 
-echo -e "\e[36mHello\nWorld!"
+echo -e "\e[31mHello\nWorld!"
